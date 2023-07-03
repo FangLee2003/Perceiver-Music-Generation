@@ -78,8 +78,8 @@ from IPython.display import Audio, display
 
 import streamlit as st
 
-os.environ["CUDA_VISIBLE_DEVICES"]="0"
-print(torch.cuda.get_device_name(torch.cuda.current_device()))
+# os.environ["CUDA_VISIBLE_DEVICES"]="0"
+# print(torch.cuda.get_device_name(torch.cuda.current_device()))
 
 # os.chdir('./')
 print('Done!')
