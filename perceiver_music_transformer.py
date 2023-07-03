@@ -91,7 +91,7 @@ st.title("Perceiver Music Transformer")
 # Commented out IPython magic to ensure Python compatibility.
 #@title Unzip Pre-Trained Perceiver Music Transformer Model
 print('=' * 70)
-os.chdir('model')
+os.chdir('Model')
 # %cd ./Model
 
 print('=' * 70)
