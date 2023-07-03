@@ -42,6 +42,7 @@ WARNING: This complete implementation is a functioning model of the Artificial I
 # !pip install tqdm
 # !pip install matplotlib
 
+# !pip install IPython
 # !apt install fluidsynth #Pip does not work for some reason. Only apt works
 # !pip install midi2audio
 

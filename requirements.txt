@@ -1,0 +1,9 @@
+einops
+torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117
+torch-summary
+tqdm
+matplotlib
+IPython
+fluidsynth
+midi2audio
+waiting
